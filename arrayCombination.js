@@ -4,7 +4,6 @@ You're given a vector of vectors of words, e.g.:
 
 Write a generalized function that prints all combinations of one word from the first vector, one word from the second vector, etc.
 The solution may not use recursion.
-
 NOTE: the number of vectors and number of elements within each vector may vary.
 */
 
